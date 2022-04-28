@@ -12,6 +12,7 @@ Flask-Cors==3.0.10
 Flask-RESTful==0.3.9
 gunicorn==20.1.0
 idna==3.3
+imdb==2021.04.18
 importlib-metadata==4.11.3
 importlib-resources==5.7.1
 itsdangerous==2.1.2
